@@ -8,6 +8,15 @@
 
 ---
 
+## 项目已迁移更新 / Project Moved
+
+> 当前仓库是早期的 **CLI 简洁版**，主要用于部署 Codex 提示词注入。
+> 后续完整可视化版本已迁移到新项目：**[Codex-X](https://github.com/yynxxxxx/Codex-X)**。
+
+Codex-X 提供桌面 UI、Provider 切换、TOML / Auth 可视化编辑、会话管理、内置 `gpt5.4-unrestricted.md` / `gpt5.5-unrestricted.md` 提示词模板，以及 macOS / Windows / Linux 安装包。
+
+👉 新项目地址：**https://github.com/yynxxxxx/Codex-X**
+
 ## 交流 / Community
 
 - QQ AI 技术交流群：扫码加入
